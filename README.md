@@ -1,0 +1,2 @@
+# Anomaly-Detection
+Anomaly detection is often referred to as outlier detection, anomaly detection is essentially the method of detection and recognition of anomalous data in any data-based occurrence or finding that is fundamentally different from the rest of the data. Anomalous data in the form of financial fraud, stock prices, or even medical problems may be crucial in identifying a unusual data trend or potential problem
